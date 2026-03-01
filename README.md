@@ -1,9 +1,9 @@
-![Vesper Preview](https://cdn.rauno.me/vesper-og.png)
+![Vesper Reimagined Preview](https://github.com/itzzjustmateo/vesperr-reimagined/blob/main/vesperreimagined.png)
 
-# Vesper
+# Vesper Reimagined
 
-Peppermint and orange flavored dark theme for VSCode.
+Reimagined peppermint and orange flavored dark theme for VSCode.
 
-<a href="https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper"><strong>Install →</strong></a>
+<a href="https://example.com/"><strong>Install it →</strong></a>
 
-> Disclaimer: This was hacked together following a tutorial. I have zero experience building themes. Made for personal usage. Not thoroughly tested at all, might have broken edge cases.
+> Disclaimer: I only have a little bit of experience building themes. Not thoroughly tested at all, might is broken.
